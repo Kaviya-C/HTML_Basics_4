@@ -1,0 +1,14 @@
+html{
+  font-size:20px;
+}
+body{
+  background-color:#393;
+  color:whitesmoke;
+}
+
+table,tr,th,td,caption{
+  border:6px solid #eee;
+  font-family:'Courier-New',Courier,monospace;
+  border-collapse:collapse;
+  padding:0.6rem;
+}
